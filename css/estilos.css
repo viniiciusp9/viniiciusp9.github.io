@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #232B2B;
+    color: #ffffff;
+}
+
+.corpo{
+    margin: 0 auto;
+    width: 960px;
+}
+
+h1{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 30px;
+ font-weight: bold;
+ color: #DC3D24;
+ margin-top: 3px;
+ margin-bottom: 5px;
+}
+
+h2{ font-size: 20px;  }
+h3{ font-size: 20px; }
+a{color: #E3AE57}
+header, footer, .redes-sociais, .tecnologias{
+    text-align: center;
+}
