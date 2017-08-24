@@ -19,7 +19,13 @@ h1{
 }
 
 h2{ font-size: 20px;  }
-h3{ font-size: 20px; }
+
+h3{ 
+    color: #DC3D24;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 a{color: #E3AE57}
 header, footer, .redes-sociais, .tecnologias{
     text-align: center;
