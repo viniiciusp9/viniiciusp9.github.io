@@ -9,7 +9,7 @@ body{
     width: 960px;
 }
 
-h1{
+h1, h2, h3{
  font-family: 'Times New Roman', Times, serif;
  font-size: 30px;
  font-weight: bold;
@@ -20,11 +20,7 @@ h1{
 
 h2{ font-size: 20px;  }
 
-h3{ 
-    color: #DC3D24;
-    font-weight: bold;
-    font-size: 20px;
-}
+h3{ font-size: 20px; }
 
 a{color: #E3AE57}
 header, footer, .redes-sociais, .tecnologias{
