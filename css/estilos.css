@@ -41,3 +41,37 @@ header, footer, .redes-sociais, .tecnologias{
     background-image: url(img/telefone.png);
     background-repeat: no-repeat;text-align: left;
 }
+
+.redes-sociais li{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: 7000px;
+}
+
+.redes-sociais li a{
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+.ico-facebook{
+    width: 40px;
+    height: 40px;
+    background-image: url(img/facebook.png);
+    background-repeat: no-repeat;
+}
+
+.ico-github{
+    width: 40px;
+    height: 40px;
+    background-image: url(img/github.png);
+    background-repeat: no-repeat;
+}
+
+.ico-devcard{
+    width: 40px;
+    height: 40px;
+    background-image: url(img/devcard.png);
+    background-repeat: no-repeat;
+}
