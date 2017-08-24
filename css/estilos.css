@@ -24,3 +24,20 @@ a{color: #E3AE57}
 header, footer, .redes-sociais, .tecnologias{
     text-align: center;
 }
+.mail{
+    width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(email.png);
+    background-repeat: no-repeat; text-align: left;
+}
+
+.telefone{
+    width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-left: 21px;
+    background-image: url(telefone.png);
+    background-repeat: no-repeat;text-align: left;
+}
