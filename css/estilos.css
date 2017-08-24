@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: #232B2B;
+    background-color: #232828;
     color: #ffffff;
 }
 
@@ -29,7 +29,7 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-left: 21px;
-    background-image: url(email.png);
+    background-image: url(img/email.png);
     background-repeat: no-repeat; text-align: left;
 }
 
@@ -38,6 +38,6 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-left: 21px;
-    background-image: url(telefone.png);
+    background-image: url(img/telefone.png);
     background-repeat: no-repeat;text-align: left;
 }
